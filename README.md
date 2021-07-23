@@ -11,7 +11,7 @@ Simple Drag and Drop on HTML 5
   
 ## Demo
 
-- [Live site](https://github.com/Carlos-BoteroVargas)
+- [Live Demo](https://drag-drop-test.netlify.app/)
 
   
 ## 🚀 About Me
